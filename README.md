@@ -2,7 +2,9 @@
 
 ## Tengo 23 años, soy un apasionado de la tecnologia. Desarrollador Front End.
 🔭 Estudiante de Ingenieria en Informatica en la UNLaM
+
 🌱 Realizando un curso de Desarrollo Web Completo
+
 🥅 Metas 2021: Conseguir un trabajo en Front End y realizar muchos proyectos personales 
 
 ### Contacta conmigo:
