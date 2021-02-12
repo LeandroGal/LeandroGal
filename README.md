@@ -33,6 +33,8 @@
 
 ### Proyectos:
 
-https://app.netlify.com/teams/lean-galante/sites
+https://blogcafegl.netlify.app/
+https://tiendaremerasgl.netlify.app/
+https://presentaciongl.netlify.app/
 
 De momento son full HTML5 y CSS, con muy poco de JavaScript. En un futuro voy a ir subiendo los proyectos que contengan JavaScript y parte de Back End
