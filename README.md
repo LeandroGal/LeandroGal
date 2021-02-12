@@ -30,3 +30,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;">
 
 <br />
+
+##Proyectos:
+
+https://app.netlify.com/teams/lean-galante/sites
+
+De momento son full HTML5 y CSS, con muy poco de JavaScript. En un futuro voy a ir subiendo los proyectos que contengan JavaScript
