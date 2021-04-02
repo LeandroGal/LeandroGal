@@ -40,6 +40,10 @@ https://blogcafegl.netlify.app/
 https://tiendaremerasgl.netlify.app/
 <br />
 https://presentaciongl.netlify.app/
+<br />
+https://festivaldemusicagl.netlify.app
+<br />
+https://peluqueriagl.netlify.app
+<br />
+https://inmobiliariagl.netlify.app
 
-
-De momento son full HTML5 y CSS, con muy poco de JavaScript. En un futuro voy a ir subiendo los proyectos que contengan JavaScript y parte de Back End
