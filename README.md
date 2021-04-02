@@ -33,17 +33,17 @@
 
 ### Proyectos:
 
-https://portfoliogl.netlify.app/
+https://portfoliogl.netlify.app/ ----> Mi portafolio donde voy mostrando los proyectos que voy realizando
 <br />
-https://blogcafegl.netlify.app/
+https://blogcafegl.netlify.app/  ----> Un blog muy sencillo, solo posee HTML y CSS
 <br />
-https://tiendaremerasgl.netlify.app/
+https://tiendaremerasgl.netlify.app/ ----> Una tienda de remeras la cual de momento solo posee HTML y CSS, en un futuro ire agregando JS, PHP y otras tecnologias
 <br />
-https://presentaciongl.netlify.app/
+https://presentaciongl.netlify.app/ ----> Primer proyecto que realice, una presentacion muy basica sobre mi, solo posee HTML y CSS
 <br />
-https://festivaldemusicagl.netlify.app
+https://festivaldemusicagl.netlify.app ---> Uno de los ultimos proyectos que solo posee HTML y CSS
 <br />
-https://peluqueriagl.netlify.app
+https://peluqueriagl.netlify.app ----> Primer proyecto en el que utilizo JS, PHP y MySQL, aun falta por terminarlo
 <br />
-https://inmobiliariagl.netlify.app
+https://inmobiliariagl.netlify.app ----> Proyecto en el que estoy actualmente, me falta realizar el CRUD para la base de datos y unos detalles mas
 
