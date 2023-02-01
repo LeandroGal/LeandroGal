@@ -1,6 +1,6 @@
 ### Hola! Soy Leandro Galante
 
-## Tengo 23 años, soy un apasionado de la tecnología. Futuro Desarrollador Full Stack (De momento solo Front End).
+## Tengo 25 años, soy un apasionado de la tecnología. Futuro Desarrollador Full Stack (De momento solo Front End).
 🔭 Estudiante de Ingeniería en Informática en la UNLaM
 
 🌱 Realizando un curso de Desarrollo Web Completo
